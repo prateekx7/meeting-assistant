@@ -1,6 +1,6 @@
 # Fireflies.ai Clone
 
-A full-stack meeting notes and transcription workspace built for the Scaler SDE Fullstack assignment. The app recreates the core Fireflies post-meeting experience: meetings library, transcript detail view, AI notes, action items, search, CRUD, and a persistent SQLite backend.
+A full-stack meeting notes and transcription workspace. The app recreates the core Fireflies post-meeting experience: meetings library, transcript detail view, AI notes, action items, search, CRUD, and a persistent SQLite backend.
 
 ## Tech Stack
 
